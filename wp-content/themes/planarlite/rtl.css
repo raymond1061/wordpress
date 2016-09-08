@@ -1,0 +1,11 @@
+/*
+Theme Name: Planar
+
+Adding support for language written in a Right To Left (RTL)
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}

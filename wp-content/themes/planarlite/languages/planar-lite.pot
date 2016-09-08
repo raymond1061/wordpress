@@ -1,0 +1,1319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: planar-lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-21 01:40+0800\n"
+"PO-Revision-Date: 2016-04-21 01:40+0800\n"
+"Last-Translator: dinevthemes <post@makewp.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка: страница не найдена."
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "Ничего не найдено. Попробуйте ссылки или другой запрос поиска."
+
+#: comments.php:15 inc/builder.php:97
+msgid "0"
+msgstr ""
+
+#: comments.php:15
+msgid "1"
+msgstr ""
+
+#: comments.php:15
+msgid "%"
+msgstr ""
+
+#: comments.php:15
+#, fuzzy
+msgid "Comments"
+msgstr "Комментарии:"
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "навигация по комментариям"
+
+#: comments.php:30
+msgid "Older"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: content-page.php:12 content-single.php:21 content.php:20
+msgid "Pages:"
+msgstr "Страницы"
+
+#: content-single.php:40 content.php:39
+#, fuzzy
+msgid "Published by "
+msgstr "Опубликовал "
+
+#: content-single.php:41 content.php:40
+msgid "on "
+msgstr ""
+
+#: content-single.php:48 content.php:47
+msgid ", "
+msgstr ""
+
+#: content-single.php:53 content-single.php:60 content.php:52 content.php:59
+#, php-format
+msgid "%2$s."
+msgstr ""
+
+#: content-single.php:60 content.php:59
+#, fuzzy, php-format
+msgid "in %1$s."
+msgstr "В рубрике %1$s."
+
+#: content-single.php:62 content.php:61
+#, fuzzy, php-format
+msgid "in %1$s"
+msgstr "В рубрике %1$s."
+
+#: functions.php:108
+msgid "Header Menu"
+msgstr "Основное меню"
+
+#: functions.php:109
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: functions.php:110 inc/contextual-help.php:54
+msgid "Social Menu"
+msgstr "Соцмедиа меню"
+
+#: functions.php:124
+msgid "Blog Sidebar"
+msgstr "Колонка записей"
+
+#: functions.php:126
+msgid "If empty (no widgets) the layout of posts will be without sidebar."
+msgstr ""
+
+#: functions.php:133
+msgid "Page Sidebar"
+msgstr "Колонка страниц"
+
+#: functions.php:135
+msgid "If empty (no widgets) the layout of page will be without sidebar."
+msgstr ""
+
+#: functions.php:142
+msgid "Home Page - Top"
+msgstr ""
+
+#: functions.php:144
+msgid ""
+"Widget area of the front page above the main content. Use Planar theme "
+"widgets."
+msgstr ""
+
+#: functions.php:151
+msgid "Home Page - Bottom"
+msgstr ""
+
+#: functions.php:153
+msgid ""
+"Widget area front page below the main content. Use Planar theme widgets.."
+msgstr ""
+
+#: functions.php:160
+msgid "Footer"
+msgstr "Подвал"
+
+#: functions.php:161
+msgid "Footer Widget area."
+msgstr ""
+
+#: functions.php:368
+msgid "Sub Title"
+msgstr ""
+
+#: functions.php:369
+msgid "Enter a sub title for this project."
+msgstr ""
+
+#: functions.php:375 projects/single-project/meta.php:29
+msgid "Date"
+msgstr ""
+
+#: functions.php:376
+msgid "Enter a date for this project."
+msgstr ""
+
+#: functions.php:386
+msgid "Project"
+msgstr ""
+
+#: functions.php:387
+msgid "Located in the sidebar Project"
+msgstr "В боковой колонке Проектов"
+
+#: image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Ничего не найдено."
+
+#: no-results.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Попробуйте поиском."
+
+#: no-tiles.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: no-tiles.php:14
+msgid "No posts"
+msgstr ""
+
+#: search.php:13
+msgid "Search Result"
+msgstr "Результаты поиска"
+
+#: searchform.php:8
+msgid "Search"
+msgstr "Поиск"
+
+#: sidebar-archive.php:16
+msgid "Archive sidebar."
+msgstr "Колонка Архива"
+
+#: single.php:18
+msgid "by "
+msgstr ""
+
+#: inc/admin-notice-plugins.php:26
+msgid "Jetpack by WordPress.com"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:30
+msgid "Projects by WooThemes"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:34
+msgid "Features by WooThemes"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:38
+msgid "Icons For Features"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:42
+msgid "Our Team by WooThemes"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:46
+msgid "Testimonials by WooThemes"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:50
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:54
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:58
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: inc/admin-notice-plugins.php:62
+msgid "WP Tab Widget"
+msgstr ""
+
+#: inc/builder.php:34
+msgid "Planar Theme Widgets"
+msgstr ""
+
+#: inc/builder.php:47
+msgid "Bottom Border Color"
+msgstr ""
+
+#: inc/builder.php:52
+msgid "Top/Bottom padding"
+msgstr ""
+
+#: inc/builder.php:54
+msgid "Top and bottom padding for this row / default: 24px"
+msgstr ""
+
+#: inc/builder.php:58
+msgid "Center align the content?"
+msgstr ""
+
+#: inc/builder.php:60
+msgid "This may or may not work. It depends on the widget styles."
+msgstr ""
+
+#: inc/builder.php:64
+#, fuzzy
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: inc/builder.php:66
+msgid "Background color of the row."
+msgstr "Фоновый цвет строки"
+
+#: inc/builder.php:70
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/builder.php:72
+msgid "Color of the row."
+msgstr ""
+
+#: inc/builder.php:76
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/builder.php:78
+msgid "Background image of the row."
+msgstr ""
+
+#: inc/builder.php:82
+msgid "Row Layout"
+msgstr ""
+
+#: inc/builder.php:85
+msgid "Standard"
+msgstr ""
+
+#: inc/builder.php:86
+msgid "Full Width"
+msgstr ""
+
+#: inc/builder.php:87
+msgid "Full Width Stretched"
+msgstr ""
+
+#: inc/builder.php:92
+msgid "Mobile padding"
+msgstr ""
+
+#: inc/builder.php:94
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr ""
+
+#: inc/builder.php:96
+msgid "Default"
+msgstr ""
+
+#: inc/builder.php:98
+msgid "15px"
+msgstr ""
+
+#: inc/builder.php:99
+msgid "30px"
+msgstr ""
+
+#: inc/builder.php:100
+msgid "45px"
+msgstr ""
+
+#: inc/builder.php:105
+msgid "Row Class"
+msgstr ""
+
+#: inc/builder.php:107
+msgid "Add your own class for this row"
+msgstr ""
+
+#: inc/builder.php:111
+msgid "Columns padding"
+msgstr ""
+
+#: inc/builder.php:113
+msgid "Remove padding between columns for this row?"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:313
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:314 inc/welcome.php:135
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:315
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:316
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:379
+#: inc/class-tgm-plugin-activation.php:3009
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:381
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:382
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2147
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2150
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2166
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2169
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2189
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2193
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2195
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2201
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2204
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2207
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2359
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2367
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2402
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2416
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2417
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2422
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2423
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2589
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2592
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2623
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2625
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2661
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2663
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3008
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3342
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3344
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3345
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3349
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3350
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3351
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3352
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3355
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3357
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3358
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/contextual-help.php:15 inc/welcome.php:47 inc/welcome.php:48
+msgid "Planar Theme"
+msgstr ""
+
+#: inc/contextual-help.php:16
+msgid "Thank you for choosing this Theme!"
+msgstr ""
+
+#: inc/contextual-help.php:16
+msgid ""
+"The Theme has a context help for almost all admin screens, see tab Theme "
+"Features. More information, help and customers support you will find on the "
+"website DinevThemes.com"
+msgstr ""
+
+#: inc/contextual-help.php:16
+msgid "Quick Start"
+msgstr ""
+
+#: inc/contextual-help.php:16
+msgid ""
+"Using Customizer set your color, upload a background image (or select any "
+"color), upload the header image (or select any color) and other settings."
+msgstr ""
+
+#: inc/contextual-help.php:16
+msgid ""
+"The theme has page templates for the Home Page. When create or edit a page, "
+"use metabox Page Attributes: dropdown select Template."
+msgstr ""
+
+#: inc/contextual-help.php:16
+msgid ""
+"If you want to display the posts/page without the sidebar just leave blank "
+"(no widgets) sidebar posts/page."
+msgstr ""
+
+#: inc/contextual-help.php:25 inc/contextual-help.php:26
+#: inc/contextual-help.php:35 inc/contextual-help.php:36
+#: inc/contextual-help.php:45
+msgid "Theme Features"
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:36
+msgid "Use Featured image"
+msgstr ""
+
+#: inc/contextual-help.php:26
+msgid "Upload the image that will be background header single post."
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:36
+msgid "Use Excerpt"
+msgstr ""
+
+#: inc/contextual-help.php:26
+msgid ""
+"Enter text in Metabox Excerpt to show announcement or the focus of the post."
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:36
+msgid "Button"
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:36
+msgid ""
+"To show the button, use the link class, , for example <code>class=\"btn blue"
+"\"</code>. Color options: green, blue, red."
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:36
+msgid "Gallery shortcode"
+msgstr ""
+
+#: inc/contextual-help.php:26 inc/contextual-help.php:36
+msgid ""
+"For a slideshow gallery use the built-in parameter WordPress shortcode "
+"Themes <code>type=\"slider\"</code>, sample: <code>[gallery columns=\"...\" "
+"ids=\"...\" type=\"slider\"]</code>"
+msgstr ""
+
+#: inc/contextual-help.php:36
+msgid "Upload the image that will be displayed header on page."
+msgstr ""
+
+#: inc/contextual-help.php:36
+msgid ""
+"Enter text in Metabox Excerpt to show announcement or the focus of the page."
+msgstr ""
+
+#: inc/contextual-help.php:36
+msgid "Templates"
+msgstr ""
+
+#: inc/contextual-help.php:36
+msgid ""
+"The theme has several page templates. Use metabox Page Attributes > dropdown "
+"Template."
+msgstr ""
+
+#: inc/contextual-help.php:36
+msgid "Around Title"
+msgstr ""
+
+#: inc/contextual-help.php:36
+msgid "Image (icon .png) above the title and the button under the title."
+msgstr ""
+
+#: inc/contextual-help.php:46
+msgid "Custom widgets"
+msgstr ""
+
+#: inc/contextual-help.php:46
+msgid ""
+"This theme has several custom widgets are marked with the prefix DT. Some "
+"widgets available after activating the plugins."
+msgstr ""
+
+#: inc/contextual-help.php:46
+msgid ""
+"If the name of the widget contains Home Widgets this means that the widget "
+"for the home page (e.g. template Home Widgets)."
+msgstr ""
+
+#: inc/contextual-help.php:55
+msgid "Social Icons Menu"
+msgstr "Меню соцсетей"
+
+#: inc/contextual-help.php:55
+msgid ""
+"Menu icons social media is displayed in the footer. Included all popular "
+"icons of social media, and RSS. To create a menu item, use the tab Links "
+"(Edit Menus). And select Social Menu as Theme locations."
+msgstr ""
+
+#: inc/contextual-help.php:55
+msgid ""
+"Example:<br />tab <strong>Links</strong><br /><em>URL</em> http://twitter."
+"com/your<br /><em>Navigation Label</em> Twitter"
+msgstr ""
+
+#: inc/customizer.php:12
+msgid "Theme Colors"
+msgstr "Цвета Темы"
+
+#: inc/customizer.php:73
+msgid "Header Background Color"
+msgstr "Фоновый цвет Шапки"
+
+#: inc/customizer.php:79
+msgid "Main Color"
+msgstr "Основной цвет"
+
+#: inc/customizer.php:85
+msgid "Secondary Color"
+msgstr "Второй цвет"
+
+#: inc/customizer.php:91
+msgid "Additional Color"
+msgstr "Второй цвет"
+
+#: inc/customizer.php:97
+#, fuzzy
+msgid "Main Menu Color"
+msgstr "Цвет меню"
+
+#: inc/customizer.php:103
+msgid "SubMenu Color"
+msgstr "Цвет субменю"
+
+#: inc/customizer.php:109
+msgid "SubMenu BG color"
+msgstr "Цвет фона субменю"
+
+#: inc/customizer.php:115
+msgid "Top Menu BG color"
+msgstr "Цвет фона топ-меню"
+
+#: inc/customizer.php:121
+msgid "Top Menu color"
+msgstr "Цвет топ-меню"
+
+#: inc/customizer.php:127
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала"
+
+#: inc/customizer.php:133
+msgid "Footer Color"
+msgstr "Цвет в подвале"
+
+#: inc/customizer.php:167
+msgid "Headline"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid ""
+"Enter text using the tags, sample: &#60;h1&#62;Headline&#60;/h1&#62;. You "
+"can also use shortcode to insert into the Home Headline."
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "<h1>Home Tagline</h1>"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "<h1>Blog Tagline</h1>"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Home Headline"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Blog Headline"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Hide Header Image"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Featured Image above post content"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Hide author/date meta top"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Hide author/date meta bottom"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "If checked hide author/date meta top"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Hide Site SubTitle"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Hide Home Headline"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Header Image and Header Front Page will be hidden"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Right aligned sidebar"
+msgstr "Боковую колонку справа"
+
+#: inc/customizer.php:368
+msgid "Hide Submenu pages"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Avatar Image"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Copyright Message"
+msgstr ""
+
+#: inc/dashboard-feed.php:10
+msgid "DinevThemes Blog"
+msgstr ""
+
+#: inc/dashboard-feed.php:47
+msgid "No items"
+msgstr ""
+
+#: inc/dashboard-feed.php:51
+msgid "ago"
+msgstr ""
+
+#: inc/dashboard-feed.php:72
+msgid "Feed from"
+msgstr ""
+
+#: inc/extras.php:44
+#, php-format
+msgid "Page %s"
+msgstr "Стр. %s"
+
+#: inc/template-tags.php:30
+msgid "Post navigation"
+msgstr "Навигация"
+
+#: inc/template-tags.php:40
+msgid "<i class=\"fa fa-arrow-left\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "<i class=\"fa fa-arrow-right\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Pingback:"
+msgstr "Ссылаются:"
+
+#: inc/template-tags.php:67 inc/template-tags.php:118
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/template-tags.php:91
+#, fuzzy
+msgid "Author"
+msgstr "Автор"
+
+#: inc/template-tags.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает проверки."
+
+#: inc/template-tags.php:139
+#, php-format
+msgid ""
+"<span class=\"byline\">by <span class=\"author vcard\"><a class=\"url fn n\" "
+"href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span></span> on <time "
+"class=\"entry-date\" datetime=\"%4$s\">%5$s</time>"
+msgstr ""
+
+#: inc/template-tags.php:141
+#, php-format
+msgid "All posts by %s"
+msgstr "Все записи %s"
+
+#: inc/template-tags.php:340
+#, php-format
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#: inc/template-tags.php:342
+#, php-format
+msgid "Theme by %s"
+msgstr "Тема от %s"
+
+#: inc/template-tags.php:353
+#, php-format
+msgid "Category %s"
+msgstr "Категория %s"
+
+#: inc/template-tags.php:355
+#, php-format
+msgid "Tag %s"
+msgstr "Тэг %s"
+
+#: inc/template-tags.php:357
+#, php-format
+msgid "Author %s"
+msgstr "Автор %s"
+
+#: inc/template-tags.php:359
+#, php-format
+msgid "Day %s"
+msgstr "День %s"
+
+#: inc/template-tags.php:361
+#, php-format
+msgid "Month %s"
+msgstr "Месяц %s"
+
+#: inc/template-tags.php:363
+#, php-format
+msgid "Year %s"
+msgstr "Год %s"
+
+#: inc/template-tags.php:365
+#, fuzzy
+msgid "Archive"
+msgstr "Архив"
+
+#: inc/welcome.php:36
+msgid "Welcome!"
+msgstr ""
+
+#: inc/welcome.php:66
+msgid "Theme"
+msgstr "Тема"
+
+#: inc/welcome.php:67
+msgid "Thank you for choosing Planar WordPress theme for your website!"
+msgstr ""
+
+#: inc/welcome.php:72
+msgid "Welcome to"
+msgstr ""
+
+#: inc/welcome.php:75
+msgid "Here are some links to get you started and optional theme-setup tasks:"
+msgstr ""
+
+#: inc/welcome.php:82
+msgid "Get Started"
+msgstr ""
+
+#: inc/welcome.php:89 inc/welcome.php:97
+msgid "Set your Front page, go to"
+msgstr ""
+
+#: inc/welcome.php:89 inc/welcome.php:93 inc/welcome.php:97
+msgid "Front page displays"
+msgstr ""
+
+#: inc/welcome.php:93
+msgid "Set you Posts page, go to"
+msgstr ""
+
+#: inc/welcome.php:101
+msgid "To select page as Front page you will need to create a new page, go to "
+msgstr ""
+
+#: inc/welcome.php:101
+msgid "Add New Page"
+msgstr ""
+
+#: inc/welcome.php:105
+msgid "Set you "
+msgstr ""
+
+#: inc/welcome.php:105
+#, fuzzy
+msgid "main Menu"
+msgstr "Основное меню"
+
+#: inc/welcome.php:108 inc/welcome.php:112
+msgid "Get Planar Premium"
+msgstr ""
+
+#: inc/welcome.php:110
+msgid "Get more features and support with Planar Premium!"
+msgstr ""
+
+#: inc/welcome.php:118
+msgid "Next Steps"
+msgstr ""
+
+#: inc/welcome.php:120
+msgid "Planar includes a custom widgets, go to "
+msgstr ""
+
+#: inc/welcome.php:120
+msgid "Manage widgets"
+msgstr ""
+
+#: inc/welcome.php:124
+msgid "Using the WordPress Customizer you can tweak appearance."
+msgstr ""
+
+#: inc/welcome.php:132
+msgid "Plugins"
+msgstr ""
+
+#: inc/welcome.php:135
+msgid "Extend the functionality of the theme using free plugins, go to "
+msgstr ""
+
+#: inc/welcome.php:137
+msgid ""
+"None of plugins are required for theme to work, they add additional "
+"functionality."
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:12
+msgid "Homepage Features"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:15
+msgid "Section of Features on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:21
+msgid "Features"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:22
+msgid "The widget for displaying Features (Woo Features) on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:41
+#: inc/widgets/widget-posts-home.php:41
+#: inc/widgets/widget-projects-home.php:39 inc/widgets/widget-team-home.php:37
+#: inc/widgets/widget-testimonials-home.php:39
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:46
+#: inc/widgets/widget-posts-home.php:59
+#: inc/widgets/widget-projects-home.php:44 inc/widgets/widget-team-home.php:42
+#: inc/widgets/widget-testimonials-home.php:44
+msgid "Intro Text:"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:51
+#: inc/widgets/widget-posts-home.php:46
+msgid "Category:"
+msgstr "Категория"
+
+#: inc/widgets/widget-features-home.php:53
+msgid "All"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:59 inc/widgets/widget-team-home.php:47
+#: inc/widgets/widget-testimonials-home.php:49
+msgid "Number to show:"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:64
+#: inc/widgets/widget-posts-home.php:69
+#: inc/widgets/widget-projects-home.php:54 inc/widgets/widget-team-home.php:52
+#: inc/widgets/widget-testimonials-home.php:54
+msgid "Number of columns:"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:69
+#: inc/widgets/widget-posts-home.php:74
+#: inc/widgets/widget-projects-home.php:59 inc/widgets/widget-team-home.php:57
+#: inc/widgets/widget-testimonials-home.php:59
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/widget-features-home.php:74
+#: inc/widgets/widget-posts-home.php:79
+#: inc/widgets/widget-projects-home.php:64 inc/widgets/widget-team-home.php:62
+#: inc/widgets/widget-testimonials-home.php:64
+msgid "Button Link:"
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:12
+msgid "Homepage Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:15
+msgid "Recent posts on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:21
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:22 inc/widgets/widget-posts-home.php:38
+msgid "The widget for displaying recent posts on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:50
+#, fuzzy
+msgid "All categories"
+msgstr "Категории"
+
+#: inc/widgets/widget-posts-home.php:64
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/widget-projects-home.php:12
+msgid "Homepage Projects"
+msgstr ""
+
+#: inc/widgets/widget-projects-home.php:15
+msgid "Projects section on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-projects-home.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: inc/widgets/widget-projects-home.php:22
+msgid "Widget display projects (Projects plugin) section on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-projects-home.php:36
+msgid ""
+"The widget for displaying projects (Projects plugin) section on the Home Page"
+msgstr ""
+
+#: inc/widgets/widget-projects-home.php:49
+msgid "Number of projects to show:"
+msgstr ""
+
+#: inc/widgets/widget-team-home.php:12
+msgid "Homepage Team"
+msgstr ""
+
+#: inc/widgets/widget-team-home.php:15
+msgid "Team section on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-team-home.php:21
+msgid "Our Team"
+msgstr ""
+
+#: inc/widgets/widget-team-home.php:22
+msgid "This widget shows Team section on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:12
+msgid "Homepage Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:15
+msgid "Testimonials section on the Home Page."
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:22
+#: inc/widgets/widget-testimonials-home.php:36
+msgid "This widget shows Testimonials section on the Home Page."
+msgstr ""
+
+#: projects/single-project/meta.php:39
+msgid "Client"
+msgstr ""
+
+#: projects/single-project/meta.php:49
+msgid "Link"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Top Bar Background Color"
+#~ msgstr "Фоновый цвет"
+
+#, fuzzy
+#~ msgid "Background Color:"
+#~ msgstr "Фоновый цвет"
+
+#, fuzzy
+#~ msgid "Page:"
+#~ msgstr "Страницы"
+
+#, fuzzy
+#~ msgid "Located in the footer of the page."
+#~ msgstr "Размещается слева в футере."
+
+#, fuzzy
+#~ msgid "Edit %s"
+#~ msgstr "Редактировать"
+
+#, fuzzy
+#~ msgid "Search %a"
+#~ msgstr "Поиск"
+
+#, fuzzy
+#~ msgid "No %s Found"
+#~ msgstr "Ничего не найдено"
+
+#, fuzzy
+#~ msgid "MWP-Author Box"
+#~ msgstr "Автор"
+
+#, fuzzy
+#~ msgid "View all posts by %s"
+#~ msgstr "Все записи %s"
+
+#, fuzzy
+#~ msgid "Author info"
+#~ msgstr "Автор"
+
+#~ msgid "Pages"
+#~ msgstr "Страницы"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "Комментарии Ранее"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Комментарии Далее"
+
+#~ msgid "Archivee Sidebar"
+#~ msgstr "Колонка Архива"
+
+#~ msgid "Top Left"
+#~ msgstr "Слева вверху"
+
+#~ msgid "Footer2"
+#~ msgstr "Футер2"
+
+#~ msgid "Located in the footer center of the page."
+#~ msgstr "Размещается по центру футера."
+
+#~ msgid "Footer3"
+#~ msgstr "Футер3"
+
+#~ msgid "Pages and posts have different sidebar."
+#~ msgstr "Страницы и записи имеют разные колонки."
+
+#~ msgid "<p>TAGS<br />%2$s.</p>"
+#~ msgstr "<p>МЕТКИ %2$s.</p>"
+
+#~ msgid "Meta"
+#~ msgstr "Мета"
+
+#~ msgctxt "comments title"
+#~ msgid "1 Comment"
+#~ msgid_plural "%1$s Comments"
+#~ msgstr[0] "Один комментарий"
+#~ msgstr[1] "%1$s Комментариев"
+
+#~ msgctxt "assistive text"
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Posted in %1$s and tagged %2$s."
+#~ msgstr "В рубрике %1$s и тэги %2$s."
+
+#~ msgid "Footer Menu"
+#~ msgstr "Меню в подвале"

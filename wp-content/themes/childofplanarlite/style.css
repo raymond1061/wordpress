@@ -1,0 +1,98 @@
+/*
+Theme Name: Planar Lite Child
+Theme URI: http://dinevthemes.com/themes/planar/
+Author: DinevThemes
+Author URI: http://dinevthemes.com/
+Description: Multipurpose responsive theme with chess grid default layout of posts. Suitable for company website, personal blog or creative portfolio. Сustom widgets. Compatible Page Builder by SiteOrigin, Jetpack, Project by Woothemes and more. Built-in Context Help.
+Version: 1.0.9
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: featured-images, left-sidebar, right-sidebar, responsive-layout, full-width-template, sticky-post, custom-header, custom-background, custom-colors, translation-ready, threaded-comments, theme-options, editor-style
+Text Domain: planar-lite-Child
+Template: planarlite
+*/
+
+@import url("../planarlite/style.css");
+
+/*new styles*/
+
+body {
+	overflow-x: hidden;
+}
+
+.navigation-main {
+	height: 100vh;
+}
+
+body {
+	background: url("images/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+	color: #fff;
+}
+
+.tile {
+	border: 10px solid black;
+}
+
+.top-bar {
+}
+
+.top-bar a {
+	font-size: 2em;
+	padding-right: 2em;
+	padding-bottom: .2em;
+}
+
+.top-bar a:hover {
+	text-transform: uppercase;
+	transition: 1s linear;
+
+}
+
+#mainheader {
+	color: #fff;
+	text-transform: uppercase;
+	position: absolute;
+	left: 37.5%;
+	top: 40%;
+	text-decoration: none;
+	font-size: 3em;
+	line-height: 1.5em;
+}
+
+.menu {
+	background-color: transparent;
+	position: relative;
+	left: 36%;
+}
+
+.menu a:hover {
+	
+	transition: 1s ease;
+}
+
+.menu::before {
+	display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url('images/background-blurry.jpg');
+    background-size: cover;
+    content: ' ';
+    opacity: 0.4;
+}
+
+.menu li a {
+	font-size: 2em;
+}
+
+#header-title {
+	margin-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	background-color: //* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+1,000000+100&1+48,0+100 */
+background: -moz-linear-gradient(top,  rgba(0,0,0,1) 1%, rgba(0,0,0,1) 48%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 48%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 48%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */;
+}
+

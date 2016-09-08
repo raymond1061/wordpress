@@ -1,0 +1,48 @@
+== Changelog ==
+
+= 1.0.9 - 20.04.2016
+* Fixed: bugs display elements - css
+* Changed: upgrade theme Customizer
+* Updated: Font Awesome to version 4.6.1 - vendor
+* Changed: theme screenshot
+
+= 1.0.8 - 06.02.2016
+* Added: template file that was mistakenly deleted but it is required for template home page
+* Updated: Font Awesome to v.4.5
+* Change: screenshot
+* Change: list of used images in the readme.txt
+* Other minor changes
+
+= 1.0.7 - 05.02.2016
+* Minor changes
+
+= 1.0.6 - 05.02.2016
+* Remove: add filter shortcodes for text widget
+* Remove: hard coding of script
+* Change: screenshot
+* Change: list of used resource in the readme.txt
+* Other minor changes
+
+= 1.0.5 - 05.01.2016
+* Remove: not used files
+* Change: theme screenshot
+
+= 1.0.4 - 01.01.2016
+* Remove: section of customizer for repeatable sections of the front page
+* Remove: custom posts loop into index.php
+
+= 1.0.3 - 29.12.2015
+* Changes prefix few functions
+* Minor changes
+
+= 1.0.2 - 23.12.2015
+* Fix: nav function when Jetpack inactive
+* Fix: added and checked Escape
+* Change: theme screenshot
+
+= 1.0.1 - 22.12.2015
+* Fix: Text domain
+* Change: theme screenshot
+* Updated: translation files
+
+= 1.0 - 7.10.2015 - Initial release
